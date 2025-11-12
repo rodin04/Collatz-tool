@@ -15,12 +15,16 @@ GUI tool to calculate and plot Collatz sequences for single numbers, lists, and 
 
 ## Examples
 
-- Enter your number(s) exactly as shown in the labels:
+- First enter your number(s) exactly as shown in the labels:
   - Single number: `5`
   - List of numbers: `3,6,9`
   - Range (inclusive): `1-10`
  
 <img src="tool_frame.png" alt="Mail App Login Screenshot" width="500">
+
+- Then click "Calculate!" to plot your input.
+
+<img src="plott_example.png" alt="Mail App Login Screenshot" width="500">
 
 ## 🧠 About the Collatz Sequence
 
