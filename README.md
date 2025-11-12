@@ -17,7 +17,8 @@ GUI tool to calculate and plot Collatz sequences for single numbers, lists, and 
 
 For any positive integer `n`:
 - If `n` is even → divide it by 2  
-- If `n` is odd → multiply by 3 and add 1  
+- If `n` is odd → multiply by 3 and add 1
+
 Repeat until you reach 1.  
 Despite its simplicity, the sequence exhibits surprisingly complex behavior — a famous unsolved problem in mathematics.
 
