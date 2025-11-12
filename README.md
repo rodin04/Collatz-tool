@@ -13,8 +13,6 @@ GUI tool to calculate and plot Collatz sequences for single numbers, lists, and 
   - Stop time (red)
 - Simple and modern GUI built in pure Python
 
----
-
 ## 🧠 About the Collatz Sequence
 
 For any positive integer `n`:
