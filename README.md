@@ -13,6 +13,15 @@ GUI tool to calculate and plot Collatz sequences for single numbers, lists, and 
   - Stop time (red)
 - Simple and modern GUI built in pure Python
 
+## Examples
+
+- Enter your number(s) exactly as shown in the labels:
+  - Single number: `5`
+  - List of numbers: `3,6,9`
+  - Range (inclusive): `1-10`
+ 
+<img src="tool_frame" alt="Mail App Login Screenshot" width="600">
+
 ## 🧠 About the Collatz Sequence
 
 For any positive integer `n`:
