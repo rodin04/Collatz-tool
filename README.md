@@ -26,7 +26,7 @@ GUI tool to calculate and plot Collatz sequences for single numbers, lists, and 
 
 <img src="plott_example.png" alt="Mail App Login Screenshot" width="600">
 
-## 🧠 About the Collatz Sequence
+## About the Collatz Sequence
 
 For any positive integer `n`:
 - If `n` is even → divide it by 2  
