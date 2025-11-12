@@ -21,4 +21,3 @@ For any positive integer `n`:
 Repeat until you reach 1.  
 Despite its simplicity, the sequence exhibits surprisingly complex behavior — a famous unsolved problem in mathematics.
 
----
