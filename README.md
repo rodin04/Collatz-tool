@@ -28,7 +28,7 @@ Despite its simplicity, the sequence exhibits surprisingly complex behavior — 
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/rodin04/Mail-app.git
+git clone https://github.com/rodin04/Collatz-tool.git
 ```
 
 3. Navigate to the project folder.
@@ -50,5 +50,12 @@ cd your_folder_path!!!
 ```
 3. Start python script
 ```bash
-python mail.py
+python collatz_tool.py
 ```
+
+## Requirements
+
+- **Python 3.10+**
+- **Tkinter** — standard library (included with most Python installations)
+- **Matplotlib 3.7+** (`matplotlib==3.7.2`) — for plotting Collatz sequences
+
