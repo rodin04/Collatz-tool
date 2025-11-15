@@ -20,7 +20,7 @@ GUI tool to calculate and plot Collatz sequences for single numbers, lists, and 
   - List of numbers: `3,6,9`
   - Range (inclusive): `1-10`
  
-<img src="tool_frame.png" alt="Mail App Login Screenshot" width="600">
+<img src="tool_fram.png" alt="Mail App Login Screenshot" width="600">
 
 - Then click "Calculate!" to plot your input.
 
